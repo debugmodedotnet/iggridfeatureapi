@@ -1,0 +1,19 @@
+{
+  "name": "iggridrestapi",
+  "version": "0.0.0",
+  "description": "iggridrestapi",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "cors": "2.8.1"
+  },
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "DKumar"
+  }
+}
